@@ -1,16 +1,14 @@
-## Hi there 👋
+# C Programming Lab - Fundamentals & Mini Systems
+BCA 1st Semester Project | Deen Dayal Upadhyaya Gorakhpur University | Aug 2026 - Oct 2026
 
-<!--
-**avi-rajput-03/avi-rajput-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A menu-driven collection of fundamental programs in C language developed for BCA 1st Semester. This project demonstrates core concepts of C including functions, conditional statements, loops (for, while, do-while), and unconditional branching (goto).
 
-Here are some ideas to get you started:
+Modules:
+1. Addition using user-defined function
+2. Printing odd numbers
+3. Demonstration of goto statement
+4. ATM PIN verification system with balance enquiry and withdrawal feature
+5. Practical examples of all loop types
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech: C Language, GCC Compiler
+Concepts: Logic building, Input validation, Real-life application of C
